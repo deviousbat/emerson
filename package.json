@@ -1,0 +1,12 @@
+{
+  "name": "emerson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bensamoron.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "aldek",
+  "license": "ISC"
+}
