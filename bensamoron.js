@@ -1,4 +1,4 @@
-export.makethiswrong = function(value) {
+export.bewrong = function(value) {
     if (typeof value === "boolean") {
         console.log("This is " + !value)
     } else {
